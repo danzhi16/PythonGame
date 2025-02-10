@@ -16,7 +16,7 @@ red = (255, 0, 0)
 
 # Screen setup
 screen = pygame.display.set_mode((screen_width, screen_height))
-pygame.display.set_caption('PingPong')
+pygame.display.set_caption('PingPongDD')
 
 # Game objects
 ball = pygame.Rect(screen_width / 2 - 15, screen_height / 2 - 15, 30, 30)
